@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Nomad Car Payment Calculator</h1>
+        <h1>Eddie's Car Payment Calculator</h1>
       </header>
       <main>
         <div className="calculator">
