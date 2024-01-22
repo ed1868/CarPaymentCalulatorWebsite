@@ -29,3 +29,8 @@ Contributions to NomadCarPaymentCalculator are welcome. Please fork the reposito
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Netlify Deployment
+
+Make sure to instal netlify CLI into your terminal to deploy online
